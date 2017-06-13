@@ -1,0 +1,42 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width: 950px;
+ background-color: navy;
+ margin: 0px auto;
+ padding: 15px;
+}
+#header{
+ height: 150px;
+ background-color: red;
+ margin-bottom:15px;
+ border-radius: 30px;
+ font-size: 30px;
+}
+#navigation{
+  height: 300px;
+  width: 200px;
+  background-color: teal;
+  border-radius: 30px;
+  display: inline-block;
+  vertical-align: top;
+ }
+ #main_content{
+  height: 400px;
+  width: 700px;
+  background-color: black;
+  margin-left: 15px;
+  padding: 15px;
+  border-radius: 30px;
+  display: inline-block;
+}
+#footer{
+ height: 120px;
+ width: 660px;
+ background-color: grey;
+ margin-top: 15px;
+ border-radius: 30px;
+}
